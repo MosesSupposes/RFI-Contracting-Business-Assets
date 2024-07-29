@@ -1,4 +1,21 @@
-# Capability Statement Template
+<style>
+  .split-panel {
+    display: flex;
+  }
+
+  .split-panel aside {
+    border-right: 3px dashed purple;
+  }
+
+  .split-panel aside:last-of-type {
+    border-right: 0px solid white;
+  }
+
+  
+</style>
+<div class="split-panel">
+
+<aside>
 
 ## Layout (Table Of Contents):
 
@@ -41,12 +58,38 @@
 - Key Contacts
 - Website and Social Media
 
+</aside>
+
+<aside>
+
 ## Outline
 
-### Executive Summary:
+### Cover Page:
+
+- Company Logo: Place your company logo prominently at the top.
+- Company Name: Your LLC’s name, displayed clearly.
+- Title: “Capability Statement”
+- Imagery: Professional and relevant images that reflect your industry (e.g., technology, engineering).
+- Contact Information: Company address, phone number, and website at the bottom.
+
+### Executive Summary
 
 - **Overview of Your Business**: Brief description of your LLC and its mission.
 - **Key Team Members**: Short bios highlighting the expertise of K, J, Am, M, and Aa.
+
+#### Business Overview:
+
+- Brief introduction of your LLC.
+- Mission statement: Describe your core mission and values.
+
+#### Key Team Members:
+
+- Kenya: Robotics engineer with extensive project management experience in the engineering sector of government contract work.
+- Josh: Senior software engineer specializing in DevOps and backend development.
+- Amir: Security and network engineer.
+- Moses: Fullstack developer specializing in JavaScript frontends.
+- Aaron: Logistics manager.
+- Isla: UI designer and content specialist with strong writing skills (technical and otherwise).
 
 ### Core Competencies:
 
@@ -72,3 +115,7 @@
 - **Company Address**: Physical and/or mailing address.
 - **Key Contacts**: Email addresses and phone numbers for primary points of contact.
 - **Website and Social Media**: Links to your company's website and professional social media profiles.
+
+</aside>
+
+</div>
