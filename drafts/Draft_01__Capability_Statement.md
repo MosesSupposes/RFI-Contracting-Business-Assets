@@ -4,81 +4,27 @@
 
 ## Table Of Contents:
 
-### [Page 1: Cover Page]
+### [Page 1: Cover Page](#cover-page)
 
-- Company Logo
-- Company Name
-- Capability Statement Title
-- Professional Imagery
+### [Page 2: Executive Summary](#executive-summary)
 
-### [Page 2: Executive Summary]
+### [Page 3: Core Competencies](#core-competencies)
 
--Business Overview
+### [Page 4: Past Performance](#past-performance)
 
-- Mission Statement
-- Key Team Members
+### [Page 5: Differentiators](#differentiators)
 
-### [Page 3: Core Competencies]
+### [Page 6: Services Offered](#services-offered)
 
-- Technical Expertise
-- Technology Stack
+### [Page 7: Contact Information](#contact-information)
 
-### [Page 4: Past Performance]
-
-- Relevant Experience
-- Success Stories
-
-### [Page 5: Differentiators]
-
-- Unique Skills and Capabilities
-- Team Versatility
-
-### [Page 6: Services Offered]
-
-- Detailed List of Services
-
-### [Page 7: Contact Information]
-
-- Company Address
-- Key Contacts
-- Website and Social Media
-
-## Outline
-
-### Executive Summary:
-
-- **Overview of Your Business**: Brief description of your LLC and its mission.
-- **Key Team Members**: Short bios highlighting the expertise of K, J, Am, M, and Aa.
-
-### Core Competencies:
-
-- **Technical Expertise**: Highlight your team's skills in robotics engineering, software development, security and network engineering, and logistics.
-- **Technology Stack**: Emphasize your use of Docker, GCP, React, TypeScript, and Node.js.
-
-### Past Performance:
-
-- **Relevant Experience**: List any previous government contracts or similar projects your team members have worked on.
-- **Success Stories**: Provide case studies or success metrics from past projects.
-
-### Differentiators:
-
-- **Unique Skills and Capabilities**: Highlight what sets your team apart, such as the combination of technical and project management expertise.
-- **Team Versatility**: Mention the multifaceted nature of your team and the support from subcontractors.
-
-### Services Offered:
-
-- **Detailed List of Services**: Clearly outline the services your LLC provides, such as project management, software development, security solutions, and logistics support.
-
-### Contact Information:
-
-- **Company Address**: Physical and/or mailing address.
-- **Key Contacts**: Email addresses and phone numbers for primary points of contact.
-- **Website and Social Media**: Links to your company's website and professional social media profiles.
 </aside>
+
+<hr>
 
 <main>
 
-### Page 1: Cover Page
+## Cover Page
 
 **Company Logo**: Place your company logo prominently at the top.
 **Company Name**: Your LLC’s name, displayed clearly.
@@ -86,7 +32,7 @@
 **Imagery**: Professional and relevant images that reflect your industry (e.g., technology, engineering).
 **Contact Information**: Company address, phone number, and website at the bottom.
 
-### Page 2: Executive Summary
+## Executive Summary
 
 #### Business Overview:
 
@@ -95,34 +41,41 @@
 
 #### Key Team Members:
 
-- **Kenya Turner**: Robotics engineer with extensive project management experience in the engineering sector of government contract work.
-- **Josh R.**: Senior software engineer specializing in DevOps, systems design and backend development,.
+- **Kenya Turner**: Robotics engineer and product manager with extensive project management experience in the engineering sector of government contract work.
+- **Josh R.**: Senior software engineer specializing in DevOps, systems design and backend development.
 - **Amir**: Security and network engineer.
 - **Moses Samuel**: Fullstack developer and UI designer specializing in JavaScript frontends.
 - **Aaron Robbins**: Logistics manager.
+- **Isla Rowse**: UI designer and content specialist with strong writing skills (technical and otherwise).
 
-### Page 3: Core Competencies
+### Core Competencies
 
 #### Team Technical Experience
 
 #### Our Team:
 
 **Kenya Turner** - _Product Manager_,
+
 Kenya leads our team with a rich background in robotics and extensive project management experience within the engineering sector of government contracts. K's expertise ensures that we maintain high standards in managing complex projects and navigating the intricacies of government contract work, driving successful outcomes in technical and operational domains.
 
-**Joshua Robbins** - _Senior Software Engineer_
+**Joshua Robbins** - _Senior Software Engineer_,
+
 Josh is a seasoned Senior Software Engineer with specialization in DevOps and backend development. Proficient in React, TypeScript, and Node.js, J excels in crafting scalable, secure applications and efficient deployment pipelines. J’s expertise in integrating robust backend services and managing DevOps workflows is integral to our team's ability to deliver high-performance software solutions.
 
-**Amir** - _Security and Network Engineer_
+**Amir** - _Security & Network Engineer_,
+
 Amir brings a deep understanding of security and network engineering, ensuring our systems are fortified against threats and vulnerabilities. With a focus on implementing best practices for network security and data protection, Am’s role is crucial in safeguarding our applications and infrastructure from potential risks.
 
-**Moses Samuel** - _Fullstack Developer and UX Designer_
+**Moses Samuel** - _Fullstack Developer & UX Designer_,
+
 Moses is a Fullstack Developer with a strong focus on JavaScript frontends and proficiency in React, TypeScript, and Node.js. M’s comprehensive skills in both frontend and backend development enable the creation of seamless, high-quality applications. M’s ability to bridge the gap between user interface design and backend functionality ensures that our solutions are both user-friendly and technically sound.
 
-**Aaron Robbins** - _Logistics Manager_
-Aaron oversees our logistics operations, ensuring that our projects run smoothly and efficiently. With expertise in managing resources, timelines, and operational logistics, Aa plays a key role in coordinating our team's efforts and facilitating effective project execution.
+**Aaron Robbins** - _Logistics Manager_,
 
-**Isla Pearl Rowse** - _UI Designer, Content Strategist, and Technical Writer_
+Aaron is a seasoned Logistics Manager with a proven track record in efficiently coordinating resources, timelines, and operations for complex projects. His expertise in logistics management ensures that our projects run smoothly and meet all deadlines, while optimizing resource allocation. Aaron oversees the coordination of resources with clients and business entities, as well as handling parts ordering, scheduling, and other administrative tasks. His strategic planning and meticulous attention to detail are crucial in facilitating seamless project execution and delivery, enabling our team to focus on delivering high-quality solutions to our clients.
+
+**Isla Pearl Rowse** - _UI Designer, Technical Writer & Content Specialist_,
+
 Isla combines her expertise in UI design, content strategy, content writing, and technical writing to create compelling and user-friendly digital experiences. She excels in crafting intuitive interfaces and developing clear, engaging content that enhances user engagement and understanding. Her multifaceted skills ensure that our projects are visually appealing, well-structured, and effectively communicated to our audience.
 
 #### Technical Expertise and Approach:
@@ -174,7 +127,7 @@ We utilize modern tools and frameworks to create scalable, high-performance solu
 - Confluence: A collaboration tool used to help teams collaborate and share knowledge efficiently.
 - Bitbucket: A Git repository management solution designed for professional teams.
 
-### Page 4: Past Performance
+### Past Performance
 
 #### Relevant Experience:
 
@@ -185,7 +138,7 @@ Brief description of any past government contracts or similar projects.
 - Case Study 2: Overview, challenges, solutions, and outcomes.
   Highlight key metrics or achievements.
 
-### Page 5: Differentiators
+### Differentiators
 
 #### Unique Skills and Capabilities:
 
@@ -196,7 +149,7 @@ Emphasize the multifaceted nature of your team.
 Mention the support from subcontractors for design, development, and content and human management.
 Example: Ability to scale projects and adapt to different requirements.
 
-### Page 6: Services Offered
+### Services Offered
 
 Detailed List of Services:
 Project Management: Planning, executing, and finalizing projects within budget and time constraints.
@@ -207,7 +160,7 @@ Logistics Support: Supply chain management, operational logistics.
 Additional Services:
 Any other relevant services your LLC provides.
 
-### Page 7: Contact Information
+### Contact Information
 
 Company Address: Physical and/or mailing address.
 Key Contacts:
