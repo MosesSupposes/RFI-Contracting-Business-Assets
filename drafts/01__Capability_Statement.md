@@ -107,7 +107,7 @@
 
 #### Our Team:
 
-\*\*Kenya Turner,
+**Kenya Turner** - _Product Manager_,
 Kenya leads our team with a rich background in robotics and extensive project management experience within the engineering sector of government contracts. K's expertise ensures that we maintain high standards in managing complex projects and navigating the intricacies of government contract work, driving successful outcomes in technical and operational domains.
 
 **Joshua Robbins** - _Senior Software Engineer_
@@ -121,6 +121,9 @@ Moses is a Fullstack Developer with a strong focus on JavaScript frontends and p
 
 **Aaron Robbins** - _Logistics Manager_
 Aaron oversees our logistics operations, ensuring that our projects run smoothly and efficiently. With expertise in managing resources, timelines, and operational logistics, Aa plays a key role in coordinating our team's efforts and facilitating effective project execution.
+
+**Isla Pearl Rowse** - _UI Designer, Content Strategist, and Technical Writer_
+Isla combines her expertise in UI design, content strategy, content writing, and technical writing to create compelling and user-friendly digital experiences. She excels in crafting intuitive interfaces and developing clear, engaging content that enhances user engagement and understanding. Her multifaceted skills ensure that our projects are visually appealing, well-structured, and effectively communicated to our audience.
 
 #### Technical Expertise and Approach:
 
