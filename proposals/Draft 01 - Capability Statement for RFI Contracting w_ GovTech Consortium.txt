@@ -1,0 +1,113 @@
+﻿Draft 01 - Capability Statement for RFI Contracting w/ GovTech Consortium
+Page 1: Cover Page
+* Company Logo: Place your company logo prominently at the top.
+* Company Name: Your LLC’s name, displayed clearly.
+* Title: “Capability Statement”
+* Imagery: Professional and relevant images that reflect your industry (e.g., technology, engineering).
+* Contact Information: Company address, phone number, and website at the bottom.
+________________
+
+
+Page 2: Executive Summary
+* Business Overview:
+   * Brief introduction of your LLC.
+   * Mission statement: Describe your core mission and values.
+* Key Team Members:
+   * Kenya.: Robotics engineer with extensive project management experience in the engineering sector of government contract work.
+   * Josh R.: Senior software engineer specializing in DevOps, systems design and backend development,.
+   * Amir: Security and network engineer.
+   * Moses S.: Fullstack developer and UI designer specializing in JavaScript frontends.
+   * Aaron R.: Logistics manager.
+________________
+
+
+Page 3: Core Competencies
+* Technical Expertise:
+   * Robotics Engineering: Experience and capabilities in robotics.
+   * DevOps and Backend Development: Proficiency in building and maintaining backend systems.
+   * Security and Network Engineering: Skills in securing and managing networks.
+   * Fullstack Development: Expertise in JavaScript frontends with React, TypeScript, and Node.js.
+* Technology Stack:
+   * Docker: Containerization for development and deployment.
+   * GCP (Google Cloud Platform): Cloud services and infrastructure.
+   * React, TypeScript, Node.js: Modern web development technologies.
+Technology Stack
+* TypeScript: A statically typed superset of JavaScript that ensures robust and maintainable code, enhancing developer productivity and code quality.
+* React: A powerful JavaScript library for building dynamic user interfaces with a component-based architecture, ensuring high performance and scalability.
+* Reason: A syntactically flexible language that combines the strong type system of OCaml with JavaScript's reach, offering predictable and maintainable codebases.
+* ReasonScript: A syntax extension and set of tools that bring JavaScript's capabilities to Reason, providing a powerful and type-safe way to build web applications.
+* Redux: A predictable state container for JavaScript applications, enabling consistent behavior across environments and simplifying application state management.
+* Node.js: A JavaScript runtime built on Chrome's V8 engine, enabling server-side scripting and the development of scalable network applications.
+* RxJS: A library for reactive programming using Observables, enabling asynchronous and event-based programs.
+* Java: A versatile, object-oriented programming language that is widely used for enterprise-level applications, ensuring reliability and cross-platform compatibility.
+* Kotlin: A modern programming language that runs on the JVM and is fully interoperable with Java, popular for Android development and backend services.
+* Golang: An efficient and performant programming language designed for concurrency and scalability, ideal for building high-performance systems and applications.
+* Python: A versatile programming language known for its simplicity and readability, widely used in web development, data analysis, and automation.
+* OCaml: A general-purpose programming language with an emphasis on expressiveness and safety, often used for academic and research purposes.
+* Haskell: A purely functional programming language known for its strong static typing and emphasis on immutability.
+* Redis: An in-memory data structure store that can be used as a database, cache, and message broker, known for its high performance and low latency.
+* SQL: Structured Query Language used for managing and querying relational databases, providing powerful and flexible data management capabilities.
+* NoSQL: A category of database systems that offer flexible and scalable data storage solutions, accommodating diverse data models like document, key-value, column, and graph.
+* MongoDB: A NoSQL database program that uses JSON-like documents with optional schemas, known for its scalability and flexibility.
+* SQL Server: A relational database management system developed by Microsoft, offering a robust and scalable platform for enterprise data management.
+* JSPs: JavaServer Pages, a technology that helps software developers create dynamically generated web pages based on HTML, XML, or other document types.
+* Playwright: An end-to-end testing framework that enables reliable testing of web applications across all modern browsers.
+* WebTAK and TAKx: Tools for tactical awareness and geospatial visualization, enhancing situational awareness through interactive maps and data.
+* AWS EC2: Amazon Web Services Elastic Compute Cloud, offering scalable computing capacity in the cloud, allowing for flexible and cost-effective deployment of applications.
+* Firebase: A platform developed by Google for creating mobile and web applications, providing real-time databases, authentication, and hosting services.
+* GCP (Google Cloud Platform): A suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, offering scalable and reliable cloud solutions.
+* Angular: A platform for building mobile and desktop web applications, known for its comprehensive framework that facilitates development, testing, and maintenance.
+* jQuery: A fast, small, and feature-rich JavaScript library that simplifies HTML document traversal and manipulation, event handling, and animation.
+* Bootstrap: A front-end framework for developing responsive and mobile-first websites.
+* Nx: A set of extensible dev tools for monorepos, helping to develop, test, build, and deploy at scale.
+* Honeycomb: An observability platform that helps to understand, debug, and improve cloud applications.
+* Confluence: A collaboration tool used to help teams collaborate and share knowledge efficiently.
+* Bitbucket: A Git repository management solution designed for professional teams.
+This comprehensive technology stack equips your team with the tools and languages necessary to tackle complex projects, ensuring scalability, performance, and maintainability across all development phases.
+________________
+
+
+Page 4: Past Performance
+* Relevant Experience:
+   * Brief description of any past government contracts or similar projects.
+* Success Stories:
+   * Case Study 1: Overview, challenges, solutions, and outcomes.
+   * Case Study 2: Overview, challenges, solutions, and outcomes.
+   * Highlight key metrics or achievements.
+________________
+
+
+Page 5: Differentiators
+* Unique Skills and Capabilities:
+   * Highlight specialized skills of each team member.
+   * Example: K’s project management experience in government contracts, J’s backend expertise, Am’s security solutions, M’s frontend development skills.
+* Team Versatility:
+   * Emphasize the multifaceted nature of your team.
+   * Mention the support from subcontractors for design, development, and content and human management.
+   * Example: Ability to scale projects and adapt to different requirements.
+________________
+
+
+Page 6: Services Offered
+* Detailed List of Services:
+   * Project Management: Planning, executing, and finalizing projects within budget and time constraints.
+   * Software Development: Custom software solutions, application development.
+   * Security Solutions: Network security, data protection, risk assessment.
+   * Fullstack Development: End-to-end web application development.
+   * Logistics Support: Supply chain management, operational logistics.
+* Additional Services:
+   * Any other relevant services your LLC provides.
+________________
+
+
+Page 7: Contact Information
+* Company Address: Physical and/or mailing address.
+* Key Contacts:
+   * K: Contact details (email, phone number).
+   * J: Contact details (email, phone number).
+   * Am: Contact details (email, phone number).
+   * M: Contact details (email, phone number).
+   * Aa: Contact details (email, phone number).
+* Website and Social Media:
+   * Company website URL.
+   * Links to professional social media profiles (LinkedIn, Twitter, etc.).
