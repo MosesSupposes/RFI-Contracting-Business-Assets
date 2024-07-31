@@ -4,19 +4,19 @@
 
 ## Table Of Contents:
 
-### [Page 1: Cover Page](#cover-page)
+### [Page 1: Cover Page](#cover-page) <!-- Work in progress -->
 
-### [Page 2: Executive Summary](#executive-summary)
+### [Page 2: Executive Summary](#executive-summary) <!-- Completed -->
 
-### [Page 3: Core Competencies](#core-competencies)
+### [Page 3: Core Competencies](#core-competencies) <!-- Completed -->
 
-### [Page 4: Past Performance](#past-performance)
+### [Page 4: Past Performance](#past-performance) <!-- Work in progress -->
 
-### [Page 5: Differentiators](#differentiators)
+### [Page 5: Differentiators](#differentiators) <!-- Completed -->
 
-### [Page 6: Services Offered](#services-offered)
+### [Page 6: Services Offered](#services-offered) <!-- Work in progress -->
 
-### [Page 7: Contact Information](#contact-information)
+### [Page 7: Contact Information](#contact-information) <!-- Work in progress -->
 
 </aside>
 
@@ -53,20 +53,17 @@ Our mission is to empower government entities with advanced technology solutions
 
 Our team's collective expertise and dedication form the foundation of our ability to meet the complex needs of government contracts. We are committed to being a trusted partner in your digital transformation journey.
 
-#### Key Team Members:
-
-- **Kenya Turner**: Robotics engineer and product manager with extensive project management experience in the engineering sector of government contract work.
-- **Josh R.**: Senior software engineer specializing in DevOps, systems design and backend development.
-- **Amir**: Security and network engineer.
-- **Moses Samuel**: Fullstack developer and UI designer specializing in JavaScript frontends.
-- **Aaron Robbins**: Logistics manager.
-- **Isla Rowse**: UI designer and content specialist with strong writing skills (technical and otherwise).
-
 ### Core Competencies
 
 #### Team Technical Experience
 
-#### Our Team:
+#### Technical Expertise and Approach:
+
+Our team combines diverse technical skills and industry experience to tackle complex IT government contracts with precision. We leverage an extensive technology stack including TypeScript, React, Reason, Redis, SQL, NoSQL, Java, Go, Kotlin, Node.js, Redux, Jira, GitHub, AWS EC2, Firebase, and GCP. Our development practices are built around cutting-edge methodologies such as micro-frontends, CI/CD, and test-driven development (TDD).
+
+We utilize modern tools and frameworks to create scalable, high-performance solutions, ensuring robust security and efficient cloud-based deployments. Our collaborative approach, guided by seasoned professionals with specialized skills, allows us to deliver innovative and reliable software solutions tailored to meet the stringent requirements of government contracts and beyond.
+
+#### Our Team
 
 **Kenya Turner** - _Product Manager_,
 
@@ -92,12 +89,6 @@ Aaron is a seasoned Logistics Manager with a proven track record in efficiently 
 
 Isla combines her expertise in UI design, content strategy, content writing, and technical writing to create compelling and user-friendly digital experiences. She excels in crafting intuitive interfaces and developing clear, engaging content that enhances user engagement and understanding. Her multifaceted skills ensure that our projects are visually appealing, well-structured, and effectively communicated to our audience.
 
-#### Technical Expertise and Approach:
-
-Our team combines diverse technical skills and industry experience to tackle complex IT government contracts with precision. We leverage an extensive technology stack including TypeScript, React, Reason, Redis, SQL, NoSQL, Java, Go, Kotlin, Node.js, Redux, Jira, GitHub, AWS EC2, Firebase, and GCP. Our development practices are built around cutting-edge methodologies such as micro-frontends, CI/CD, and test-driven development (TDD).
-
-We utilize modern tools and frameworks to create scalable, high-performance solutions, ensuring robust security and efficient cloud-based deployments. Our collaborative approach, guided by seasoned professionals with specialized skills, allows us to deliver innovative and reliable software solutions tailored to meet the stringent requirements of government contracts and beyond.
-
 #### Technical Skills Overview:
 
 - _Robotics Engineering_: Experience and capabilities in robotics.
@@ -106,42 +97,46 @@ We utilize modern tools and frameworks to create scalable, high-performance solu
 - _Fullstack Web Development_: Expertise in JavaScript frontends with React, TypeScript, and Node.js.
 -
 
-- \_Technology Stack:
+#### Technology Stack (Overview):
+
 - Docker: Containerization for development and deployment.
 - GCP (Google Cloud Platform): Cloud services and infrastructure.
-- React, TypeScript, Node.js: Modern web development technologies.
-- Technology Stack
-- TypeScript: A statically typed superset of JavaScript that ensures robust and maintainable code, enhancing developer productivity and code quality.
-- React: A powerful JavaScript library for building dynamic user interfaces with a component-based architecture, ensuring high performance and scalability.
-- Reason: A syntactically flexible language that combines the strong type system of OCaml with JavaScript's reach, offering predictable and maintainable codebases.
-- ReasonScript: A syntax extension and set of tools that bring JavaScript's capabilities to Reason, providing a powerful and type-safe way to build web applications.
-- Redux: A predictable state container for JavaScript applications, enabling consistent behavior across environments and simplifying application state management.
-- Node.js: A JavaScript runtime built on Chrome's V8 engine, enabling server-side scripting and the development of scalable network applications.
-- RxJS: A library for reactive programming using Observables, enabling asynchronous and event-based programs.
-- Java: A versatile, object-oriented programming language that is widely used for enterprise-level applications, ensuring reliability and cross-platform compatibility.
-- Kotlin: A modern programming language that runs on the JVM and is fully interoperable with Java, popular for Android development and backend services.
-- Golang: An efficient and performant programming language designed for concurrency and scalability, ideal for building high-performance systems and applications.
-- Python: A versatile programming language known for its simplicity and readability, widely used in web development, data analysis, and automation.
-- OCaml: A general-purpose programming language with an emphasis on expressiveness and safety, often used for academic and research purposes.
-- Haskell: A purely functional programming language known for its strong static typing and emphasis on immutability.
-- Redis: An in-memory data structure store that can be used as a database, cache, and message broker, known for its high performance and low latency.
-- SQL: Structured Query Language used for managing and querying relational databases, providing powerful and flexible data management capabilities.
-- NoSQL: A category of database systems that offer flexible and scalable data storage solutions, accommodating diverse data models like document, key-value, column, and graph.
-- MongoDB: A NoSQL database program that uses JSON-like documents with optional schemas, known for its scalability and flexibility.
-- SQL Server: A relational database management system developed by Microsoft, offering a robust and scalable platform for enterprise data management.
-- JSPs: JavaServer Pages, a technology that helps software developers create dynamically generated web pages based on HTML, XML, or other document types.
-- Playwright: An end-to-end testing framework that enables reliable testing of web applications across all modern browsers.
-- WebTAK and TAKx: Tools for tactical awareness and geospatial visualization, enhancing situational awareness through interactive maps and data.
-- AWS EC2: Amazon Web Services Elastic Compute Cloud, offering scalable computing capacity in the cloud, allowing for flexible and cost-effective deployment of applications.
-- Firebase: A platform developed by Google for creating mobile and web applications, providing real-time databases, authentication, and hosting services.
-- GCP (Google Cloud Platform): A suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, offering scalable and reliable cloud solutions.
-- Angular: A platform for building mobile and desktop web applications, known for its comprehensive framework that facilitates development, testing, and maintenance.
-- jQuery: A fast, small, and feature-rich JavaScript library that simplifies HTML document traversal and manipulation, event handling, and animation.
-- Bootstrap: A front-end framework for developing responsive and mobile-first websites.
-- Nx: A set of extensible dev tools for monorepos, helping to develop, test, build, and deploy at scale.
-- Honeycomb: An observability platform that helps to understand, debug, and improve cloud applications.
-- Confluence: A collaboration tool used to help teams collaborate and share knowledge efficiently.
-- Bitbucket: A Git repository management solution designed for professional teams.
+- React, TypeScript, Node.js: Modern full stack web development technologies.
+- Figma: A collaborative design tool used for wireframing, creating user stories, and managing design tokens. Figma enables seamless collaboration between designers, developers, and stakeholders, facilitating the creation of visually appealing and user-friendly digital experiences.
+
+#### Technology Stack (For Development):
+
+- _TypeScript_: A statically typed superset of JavaScript that ensures robust and maintainable code, enhancing developer productivity and code quality.
+- _React_: A powerful JavaScript library for building dynamic user interfaces with a component-based architecture, ensuring high performance and scalability.
+- _Redux_: A predictable state container for JavaScript applications, enabling consistent behavior across environments and simplifying application state management.
+- Next.js: A popular React framework for building server-side rendered and static websites. Next.js provides a seamless development experience with features like automatic code splitting, server-side rendering, and static site generation. It also offers built-in support for TypeScript, CSS modules, and API routes, making it a powerful choice for building modern web applications.
+- _Node.js_: A JavaScript runtime built on Chrome's V8 engine, enabling server-side scripting and the development of scalable network applications.
+- _Reason_: A syntactically flexible language that combines the strong type system of OCaml with JavaScript's reach, offering predictable and maintainable codebases.
+- _OCaml_: A general-purpose programming language with an emphasis on expressiveness and safety, often used for academic and research purposes.
+- _RxJS_: A library for reactive programming using Observables, enabling asynchronous and event-based programs.
+- _Java_: A versatile, object-oriented programming language that is widely used for enterprise-level applications, ensuring reliability and cross-platform compatibility.
+- _Kotlin_: A modern programming language that runs on the JVM and is fully interoperable with Java, popular for Android development and backend services.
+- _Golang_: An efficient and performant programming language designed for concurrency and scalability, ideal for building high-performance systems and applications.
+- _Python_: A versatile programming language known for its simplicity and readability, widely used in web development, data analysis, and automation.
+- _Redis_: An in-memory data structure store that can be used as a database, cache, and message broker, known for its high performance and low latency.
+- _SQL_: Structured Query Language used for managing and querying relational databases, providing powerful and flexible data management capabilities.
+- _NoSQL_: A category of database systems that offer flexible and scalable data storage solutions, accommodating diverse data models like document, key-value, column, and graph.
+- _MongoDB_: A NoSQL database program that uses JSON-like documents with optional schemas, known for its scalability and flexibility.
+- _SQL Server_: A relational database management system developed by Microsoft, offering a robust and scalable platform for enterprise data management.
+- _JSPs_: JavaServer Pages, a technology that helps software developers create dynamically generated web pages based on HTML, XML, or other document types.
+- _Playwright_: An end-to-end testing framework that enables reliable testing of web applications across all modern browsers.
+- _WebTAK and TAKx_: Tools for tactical awareness and geospatial visualization, enhancing situational awareness through interactive maps and data.
+- _AWS EC2_: Amazon Web Services Elastic Compute Cloud, offering scalable computing capacity in the cloud, allowing for flexible and cost-effective deployment of applications.
+- _Firebase_: A platform developed by Google for creating mobile and web applications, providing real-time databases, authentication, and hosting services.
+- _GCP_ (Google Cloud Platform): A suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, offering scalable and reliable cloud solutions.
+- _Angular_: A platform for building mobile and desktop web applications, known for its comprehensive framework that facilitates development, testing, and maintenance.
+- _jQuery_: A fast, small, and feature-rich JavaScript library that simplifies HTML document traversal and manipulation, event handling, and animation.
+- _Bootstrap_: A front-end framework for developing responsive and mobile-first websites.
+- _Nx_: A set of extensible dev tools for monorepos, helping to develop, test, build, and deploy at scale.
+- _Honeycomb_: An observability platform that helps to understand, debug, and improve cloud applications.
+- _Confluence_: A collaboration tool used to help teams collaborate and share knowledge efficiently.
+- _Bitbucket_: A Git repository management solution designed for professional teams.
+- _GitHub Copilot_: An AI-powered code completion tool that assists developers in writing code by providing intelligent suggestions and auto-completion based on context and patterns from a vast codebase. It helps streamline the coding process and enhances productivity by reducing the time spent on repetitive tasks and offering accurate code suggestions.
 
 ### Past Performance
 
@@ -156,14 +151,37 @@ Brief description of any past government contracts or similar projects.
 
 ### Differentiators
 
-#### Unique Skills and Capabilities:
+#### Comprehensive Expertise Across the Tech Spectrum:
 
-Highlight specialized skills of each team member.
-Example: K’s project management experience in government contracts, J’s backend expertise, Am’s security solutions, M’s frontend development skills.
-Team Versatility:
-Emphasize the multifaceted nature of your team.
-Mention the support from subcontractors for design, development, and content and human management.
-Example: Ability to scale projects and adapt to different requirements.
+Our team stands unparalleled in the GovTech space, boasting a rare amalgamation of skills that span the entire technology spectrum. From the initial sketches of UI/UX design to the intricate complexities of backend systems, and from the cutting-edge security measures to the logistical wizardry that keeps projects on track, we cover every base. Our prowess doesn't stop there; we push the boundaries with our robotics innovation, ensuring that we're not just participants in the tech revolution but leading the charge.
+
+#### Comprehensive Expertise Across the Tech Spectrum:
+
+Our comprehensive expertise extends beyond technical skills. We leverage the power of design sprints, user flows, wireframes, design tokens, and a unified development toolkit and system. These tools and processes enable us to deliver exceptional user experiences and streamline development workflows.
+
+#### Unmatched Versatility and Innovation:
+
+What sets us apart is not just our wide-ranging expertise but our ability to interweave these skills seamlessly into a cohesive, innovative force. Our team is a dynamic fusion of creative designers, meticulous developers, strategic frontend and backend engineers, vigilant security experts, logistical maestros, and robotics visionaries. This unique blend enables us to approach problems with a multifaceted perspective, ensuring solutions that are not only effective but revolutionary.
+
+#### A Synergistic Approach to Problem-Solving:
+
+Our team's diversity in skills is matched by our unity in vision. By leveraging our comprehensive in-house capabilities in design, development, security, logistics, and robotics, we ensure a synergistic approach to problem-solving. This means projects are not siloed but benefit from the collective expertise of our entire team, resulting in outcomes that are greater than the sum of their parts.
+
+#### Pioneering the Future of GovTech:
+
+With our unparalleled blend of skills, we're not just meeting the current demands of the GovTech sector; we're anticipating its future needs. Our team is at the forefront of technological innovation, pioneering solutions that redefine what's possible in government technology. From creating more secure and efficient digital infrastructures to deploying robotic solutions that automate and enhance public services, we're setting new standards for excellence and innovation in the field.
+
+#### Unmatched Versatility and Innovation:
+
+What sets us apart is not just our wide-ranging expertise but our ability to interweave these skills seamlessly into a cohesive, innovative force. Our team is a dynamic fusion of creative designers, meticulous developers, strategic frontend and backend engineers, vigilant security experts, logistical maestros, and robotics visionaries. This unique blend enables us to approach problems with a multifaceted perspective, ensuring solutions that are not only effective but revolutionary.
+
+#### A Synergistic Approach to Problem-Solving:
+
+Our team's diversity in skills is matched by our unity in vision. By leveraging our comprehensive in-house capabilities in design, development, security, logistics, and robotics, we ensure a synergistic approach to problem-solving. This means projects are not siloed but benefit from the collective expertise of our entire team, resulting in outcomes that are greater than the sum of their parts.
+
+#### Pioneering the Future of GovTech:
+
+With our unparalleled blend of skills, we're not just meeting the current demands of the GovTech sector; we're anticipating its future needs. Our team is at the forefront of technological innovation, pioneering solutions that redefine what's possible in government technology. From creating more secure and efficient digital infrastructures to deploying robotic solutions that automate and enhance public services, we're setting new standards for excellence and innovation in the field.
 
 ### Services Offered
 
