@@ -42,11 +42,15 @@ We utilize modern tools and frameworks to create scalable, high-performance solu
 - _Fullstack Web Development_: Expertise in JavaScript frontends with React, TypeScript, and Node.js.
 -
 
-- \_Technology Stack:
+#### Technology Stack (Overview):
+
 - Docker: Containerization for development and deployment.
 - GCP (Google Cloud Platform): Cloud services and infrastructure.
 - React, TypeScript, Node.js: Modern web development technologies.
-- Technology Stack
+- Figma: A collaborative design tool used for wireframing, creating user stories, and managing design tokens. Figma enables seamless collaboration between designers, developers, and stakeholders, facilitating the creation of visually appealing and user-friendly digital experiences.
+
+#### Technology Stack (For Development):
+
 - TypeScript: A statically typed superset of JavaScript that ensures robust and maintainable code, enhancing developer productivity and code quality.
 - React: A powerful JavaScript library for building dynamic user interfaces with a component-based architecture, ensuring high performance and scalability.
 - Reason: A syntactically flexible language that combines the strong type system of OCaml with JavaScript's reach, offering predictable and maintainable codebases.
@@ -78,3 +82,4 @@ We utilize modern tools and frameworks to create scalable, high-performance solu
 - Honeycomb: An observability platform that helps to understand, debug, and improve cloud applications.
 - Confluence: A collaboration tool used to help teams collaborate and share knowledge efficiently.
 - Bitbucket: A Git repository management solution designed for professional teams.
+- GitHub Copilot: An AI-powered code completion tool that assists developers in writing code by providing intelligent suggestions and auto-completion based on context and patterns from a vast codebase. It helps streamline the coding process and enhances productivity by reducing the time spent on repetitive tasks and offering accurate code suggestions.
