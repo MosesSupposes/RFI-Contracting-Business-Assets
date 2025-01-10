@@ -10,7 +10,7 @@
 
 ### [Page 3: Core Competencies](#core-competencies) <!-- Completed -->
 
-### [Page 4: Past Performance](#past-performance) <!-- Work in progress -->
+### [Page 4: Past Performance](#past-performance) <!-- Completed -->
 
 ### [Page 5: Differentiators](#differentiators) <!-- Completed -->
 
@@ -62,6 +62,27 @@ Our team's collective expertise and dedication form the foundation of our abilit
 Our team combines diverse technical skills and industry experience to tackle complex IT government contracts with precision. We leverage an extensive technology stack including TypeScript, React, Reason, Redis, SQL, NoSQL, Java, Go, Kotlin, Node.js, Redux, Jira, GitHub, AWS EC2, Firebase, and GCP. Our development practices are built around cutting-edge methodologies such as micro-frontends, CI/CD, and test-driven development (TDD).
 
 We utilize modern tools and frameworks to create scalable, high-performance solutions, ensuring robust security and efficient cloud-based deployments. Our collaborative approach, guided by seasoned professionals with specialized skills, allows us to deliver innovative and reliable software solutions tailored to meet the stringent requirements of government contracts and beyond.
+
+### NACIS & SERVICES 
+
+#### Primary NAICS Codes  
+- **541512** – Computer Systems Design Services  
+- **541511** – Custom Computer Programming Services  
+- **541513** – Computer Facilities Management Services  
+- **541519** – Other Computer Related Services  
+- **518210** – Data Processing, Hosting, and Related Services  
+- **541330** – Engineering Services  
+
+#### Secondary NAICS Codes  
+- **561621** – Security Systems Services (except Locksmiths)  
+- **541690** – Other Scientific and Technical Consulting Services  
+- **517311** – Wired Telecommunications Carriers  
+- **517312** – Wireless Telecommunications Carriers (except Satellite)  
+- **334111** – Electronic Computer Manufacturing  
+- **611420** – Computer Training  
+- **541618** – Other Management Consulting Services  
+- **541715** – Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)  
+
 
 #### Our Team
 
