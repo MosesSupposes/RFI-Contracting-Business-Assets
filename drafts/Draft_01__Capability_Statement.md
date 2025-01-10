@@ -44,12 +44,12 @@ Our mission is to empower government entities with advanced technology solutions
 
 #### Key Team Members:
 
-- **Kenya Turner**: Robotics engineer and product manager with extensive project management experience in the engineering sector of government contract work.
-- **Josh R.**: Senior software engineer specializing in DevOps, systems design and backend development.
-- **Amir**: Security and network engineer.
-- **Moses Samuel**: Fullstack developer and UI designer specializing in JavaScript frontends.
-- **Aaron Robbins**: Logistics manager.
-- **Isla Rowse**: UI designer and content specialist with strong writing skills (technical and otherwise).
+- **Joshua Robbins**: Senior software developer with expertise in full-stack development, Java-based applications, and API design, specializing in secure backend systems and Agile methodologies.  
+- **Moses A. Samuel**: Senior React Developer and full-stack engineer, skilled in building scalable front-end solutions with React and TypeScript, and backend services with Java and Python.  
+- **Aamir Z. Cooper**: Security and network engineer with extensive experience in Risk Management Framework (RMF), vulnerability assessments, and maintaining secure classified and unclassified network infrastructures.  
+- **Sean McEnany**: Lead Network Engineer with 12+ years of experience in network infrastructure design, optimization, and cybersecurity for government contracts, specializing in Cisco systems and data center high availability. 
+ - **Arron Robbins**: Logistics and procurement manager with expertise in supply chain optimization, inventory management, and vendor relations, ensuring cost-effective and timely operations in fast-paced environments. 
+
 
 Our team's collective expertise and dedication form the foundation of our ability to meet the complex needs of government contracts. We are committed to being a trusted partner in your digital transformation journey.
 
