@@ -4,7 +4,7 @@
 
 ## Table Of Contents:
 
-### [Page 1: Cover Page](#cover-page) <!-- Work in progress -->
+### [Page 1: Cover Page](#cover-page) <!-- Completed -->
 
 ### [Page 2: Executive Summary](#executive-summary) <!-- Completed -->
 
@@ -24,13 +24,18 @@
 
 <main>
 
-## Cover Page
+## Home Page
 
-**Company Logo**: Place your company logo prominently at the top.
-**Company Name**: Your LLC’s name, displayed clearly.
+<img src="../assets/american-new-vision-logo.webp" height="200px" width="200px" display="block" margin="0 auto"/> 
+
+**Company Name**: American New Vision LLC
 **Title**: “Capability Statement”
+**Email**: "americannewvision1@gmail.com"  <!--  TODO Replace -->
 **Imagery**: Professional and relevant images that reflect your industry (e.g., technology, engineering).
-**Contact Information**: Company address, phone number, and website at the bottom.
+**Contact Information**: 
+P.O Box 1163 
+Middletown Delaware
+(302)3190857
 
 ## Executive Summary
 
@@ -57,11 +62,8 @@ Our team's collective expertise and dedication form the foundation of our abilit
 
 #### Team Technical Experience
 
-#### Technical Expertise and Approach:
 
-Our team combines diverse technical skills and industry experience to tackle complex IT government contracts with precision. We leverage an extensive technology stack including TypeScript, React, Reason, Redis, SQL, NoSQL, Java, Go, Kotlin, Node.js, Redux, Jira, GitHub, AWS EC2, Firebase, and GCP. Our development practices are built around cutting-edge methodologies such as micro-frontends, CI/CD, and test-driven development (TDD).
-
-We utilize modern tools and frameworks to create scalable, high-performance solutions, ensuring robust security and efficient cloud-based deployments. Our collaborative approach, guided by seasoned professionals with specialized skills, allows us to deliver innovative and reliable software solutions tailored to meet the stringent requirements of government contracts and beyond.
+Our team combines diverse expertise to deliver innovative IT solutions for government contracts. Using a range of modern technologies and best practices like modular design, CI/CD, and test-driven development, we create secure, scalable, and efficient systems. Guided by experienced professionals, we ensure high-performance, cloud-based deployments tailored to meet the unique demands of our clients.
 
 ### NACIS & SERVICES 
 
@@ -84,45 +86,39 @@ We utilize modern tools and frameworks to create scalable, high-performance solu
 - **541715** – Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)  
 
 
-#### Our Team
+#### Our Team  
 
-**Kenya Turner** - _Product Manager_,
+**Sean McEnany** - _Lead Network Engineer_  
+Sean brings over 12 years of expertise in network infrastructure design, optimization, and cybersecurity. He is proficient in designing and maintaining high-performance networks, ensuring secure and reliable operations. Sean’s leadership and technical skills are instrumental in delivering scalable IT solutions tailored to government contracting needs.  
 
-Kenya leads our team with a rich background in robotics and extensive project management experience within the engineering sector of government contracts. K's expertise ensures that we maintain high standards in managing complex projects and navigating the intricacies of government contract work, driving successful outcomes in technical and operational domains.
+**Joshua Robbins** - _Senior Software Developer_  
+Joshua specializes in full-stack development and backend solutions, with proficiency in Java, React, and API design. His expertise in creating secure, scalable applications and implementing Agile development practices enables our team to deliver reliable software solutions.  
 
-**Joshua Robbins** - _Senior Software Engineer_,
+**Aamir Z. Cooper** - _Security & Network Engineer_  
+Aamir has extensive experience in cybersecurity and network management, including vulnerability assessments and Risk Management Framework (RMF) compliance. His work ensures the security and integrity of our systems, safeguarding critical infrastructure against threats.  
 
-Josh is a seasoned Senior Software Engineer with specialization in DevOps and backend development. Proficient in React, TypeScript, and Node.js, J excels in crafting scalable, secure applications and efficient deployment pipelines. J’s expertise in integrating robust backend services and managing DevOps workflows is integral to our team's ability to deliver high-performance software solutions.
+**Moses A. Samuel** - _Fullstack Developer & UX Designer_  
+Moses is a skilled Fullstack Developer with a strong focus on frontend technologies like React and TypeScript, complemented by backend capabilities in Java and Python. His ability to design seamless, user-friendly applications ensures our solutions meet both technical and user experience standards.  
 
-**Amir** - _Security & Network Engineer_,
+**Aaron Robbins** - _Logistics & Procurement Manager_  
+Aaron excels in resource coordination, supply chain management, and logistics planning. With a background in optimizing operations and maintaining efficient workflows, he ensures projects run smoothly, meeting deadlines and budgetary constraints.  
 
-Amir brings a deep understanding of security and network engineering, ensuring our systems are fortified against threats and vulnerabilities. With a focus on implementing best practices for network security and data protection, Am’s role is crucial in safeguarding our applications and infrastructure from potential risks.
+**Isla Rowse** - _UI Designer & Content Specialist_  
+Isla combines her skills in UI design and technical writing to create intuitive, visually appealing interfaces and clear, engaging content. Her attention to detail and creative approach enhance user experiences, ensuring project success in communication and presentation.  
 
-**Moses Samuel** - _Fullstack Developer & UX Designer_,
-
-Moses is a Fullstack Developer with a strong focus on JavaScript frontends and proficiency in React, TypeScript, and Node.js. M’s comprehensive skills in both frontend and backend development enable the creation of seamless, high-quality applications. M’s ability to bridge the gap between user interface design and backend functionality ensures that our solutions are both user-friendly and technically sound.
-
-**Aaron Robbins** - _Logistics Manager_,
-
-Aaron is a seasoned Logistics Manager with a proven track record in efficiently coordinating resources, timelines, and operations for complex projects. His expertise in logistics management ensures that our projects run smoothly and meet all deadlines, while optimizing resource allocation. Aaron oversees the coordination of resources with clients and business entities, as well as handling parts ordering, scheduling, and other administrative tasks. His strategic planning and meticulous attention to detail are crucial in facilitating seamless project execution and delivery, enabling our team to focus on delivering high-quality solutions to our clients.
-
-**Isla Pearl Rowse** - _UI Designer, Technical Writer & Content Specialist_,
-
-Isla combines her expertise in UI design, content strategy, content writing, and technical writing to create compelling and user-friendly digital experiences. She excels in crafting intuitive interfaces and developing clear, engaging content that enhances user engagement and understanding. Her multifaceted skills ensure that our projects are visually appealing, well-structured, and effectively communicated to our audience.
 
 #### Technical Skills Overview:
 
 - _Robotics Engineering_: Experience and capabilities in robotics.
 - _DevOps and Backend Development_: Proficiency in building and maintaining backend systems.
 - _Security and Network Engineering_: Skills in securing and managing networks.
-- _Fullstack Web Development_: Expertise in JavaScript frontends with React, TypeScript, and Node.js.
--
+- _Fullstack Web Development_: Expertise in JavaScript frontends with React, Angular, and Node.js.
 
 #### Technology Stack (Overview):
 
 - Docker: Containerization for development and deployment.
 - GCP (Google Cloud Platform): Cloud services and infrastructure.
-- React, TypeScript, Node.js: Modern full stack web development technologies.
+- React, Angular, Node.js: Modern full stack web development technologies.
 - Figma: A collaborative design tool used for wireframing, creating user stories, and managing design tokens. Figma enables seamless collaboration between designers, developers, and stakeholders, facilitating the creation of visually appealing and user-friendly digital experiences.
 
 #### Technology Stack (For Development):
