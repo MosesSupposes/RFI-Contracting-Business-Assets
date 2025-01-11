@@ -85,6 +85,46 @@ Our team combines diverse expertise to deliver innovative IT solutions for gover
 - **541618** – Other Management Consulting Services  
 - **541715** – Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)  
 
+### Past Performance
+
+Past Performance Statement
+
+Our organization has consistently demonstrated excellence in delivering high-quality IT, cybersecurity, networking, and software development solutions to government and private sector clients. Leveraging extensive expertise and a proven track record, we ensure superior work quality, adherence to schedules, effective cost control, and exceptional customer satisfaction.
+
+#### Cybersecurity and Risk Management:
+
+- Delivered comprehensive vulnerability assessments, system hardening, and compliance with Risk Management Framework (RMF) standards.
+Maintained accreditation for defense systems while ensuring the integrity and security of classified and unclassified networks.
+
+#### Network Engineering and Infrastructure Development:
+
+- Successfully implemented and optimized multimillion-dollar enterprise network infrastructures, ensuring high availability, security, and performance.
+Utilized advanced technologies, including Cisco networking and firewall management, to design resilient and scalable data center solutions.
+
+#### Software Development and Application Management:
+
+- Engineered robust web applications, APIs, and secure financial transaction systems using modern development frameworks and tools.
+Developed scalable front-end and back-end systems with enhanced usability and real-time analytics capabilities to support decision-making.
+
+#### Project Management and Technical Leadership:
+
+- Executed complex projects with seamless coordination, meeting stringent timelines and delivering results that exceeded client expectations.
+Ensured compliance with industry standards and government regulations, supported by rigorous testing, documentation, and continuous improvement practices.
+By integrating cutting-edge technologies with a commitment to operational excellence, our organization has consistently provided innovative and reliable solutions. These achievements highlight our ability to perform future contracts with precision, efficiency, and outstanding client satisfaction.
+
+### Services Offered
+
+Detailed List of Services:
+Project Management: Planning, executing, and finalizing projects within budget and time constraints.
+Software Development: Custom software solutions, application development.
+Security Solutions: Network security, data protection, risk assessment.
+Fullstack Development: End-to-end web application development.
+Logistics Support: Supply chain management, operational logistics.
+Additional Services:
+Any other relevant services your LLC provides.
+
+
+<!-- separate page -->
 
 #### Our Team  
 
@@ -155,46 +195,9 @@ Isla combines her skills in UI design and technical writing to create intuitive,
 - _Bitbucket_: A Git repository management solution designed for professional teams.
 - _GitHub Copilot_: An AI-powered code completion tool that assists developers in writing code by providing intelligent suggestions and auto-completion based on context and patterns from a vast codebase. It helps streamline the coding process and enhances productivity by reducing the time spent on repetitive tasks and offering accurate code suggestions.
 
-### Past Performance
-
-Past Performance Statement
-
-Our organization has consistently demonstrated excellence in delivering high-quality IT, cybersecurity, networking, and software development solutions to government and private sector clients. Leveraging extensive expertise and a proven track record, we ensure superior work quality, adherence to schedules, effective cost control, and exceptional customer satisfaction.
-
-#### Cybersecurity and Risk Management:
-
-- Delivered comprehensive vulnerability assessments, system hardening, and compliance with Risk Management Framework (RMF) standards.
-Maintained accreditation for defense systems while ensuring the integrity and security of classified and unclassified networks.
-
-#### Network Engineering and Infrastructure Development:
-
-- Successfully implemented and optimized multimillion-dollar enterprise network infrastructures, ensuring high availability, security, and performance.
-Utilized advanced technologies, including Cisco networking and firewall management, to design resilient and scalable data center solutions.
-
-#### Software Development and Application Management:
-
-- Engineered robust web applications, APIs, and secure financial transaction systems using modern development frameworks and tools.
-Developed scalable front-end and back-end systems with enhanced usability and real-time analytics capabilities to support decision-making.
-
-#### Project Management and Technical Leadership:
-
-- Executed complex projects with seamless coordination, meeting stringent timelines and delivering results that exceeded client expectations.
-Ensured compliance with industry standards and government regulations, supported by rigorous testing, documentation, and continuous improvement practices.
-By integrating cutting-edge technologies with a commitment to operational excellence, our organization has consistently provided innovative and reliable solutions. These achievements highlight our ability to perform future contracts with precision, efficiency, and outstanding client satisfaction.
-
-### Services Offered
-
-Detailed List of Services:
-Project Management: Planning, executing, and finalizing projects within budget and time constraints.
-Software Development: Custom software solutions, application development.
-Security Solutions: Network security, data protection, risk assessment.
-Fullstack Development: End-to-end web application development.
-Logistics Support: Supply chain management, operational logistics.
-Additional Services:
-Any other relevant services your LLC provides.
 
 ### Contact Information
-
+<!-- TODO -->
 Company Address: Physical and/or mailing address.
 Key Contacts:
 K: Contact details (email, phone number).
